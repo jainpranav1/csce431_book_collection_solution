@@ -58,5 +58,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # added by pranav
-gem 'brakeman'
-gem 'rubocop'
+# gem 'brakeman'
+# gem 'rubocop'
